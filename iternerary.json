@@ -1,0 +1,42 @@
+{
+    "tripName": "Japan Vacation",
+    "traveler": {
+        "name": "John Doe",
+        "contact": {
+            "email": "john@gmail.com",
+            "phone": "314-555-5555"
+        }
+    },
+    "destinations":[
+        {
+        "location": "Tokyo",
+        "arrivalDate": "2026-09-01",
+        "departureDate": "2025-09-05",
+        "activities":[
+            {
+            "title": "Mount Fuji",
+            "time": "3:00 PM" 
+            },
+            {
+                "title": "Hiking",
+                "time": "4:00 PM"
+            }
+        ]
+        },
+        {
+        "location": "Shibuya",
+        "arrivalDate": "2025-09-06",
+        "departureDate": "2025-09-10",
+        "activities":[
+            {
+                "title": "Robot Cafe",
+                "time": "4:00 PM"
+            },
+            {
+                "title": "Shibuya Crossing",
+                "time": "6:00 pm"
+            }
+        ] 
+        }
+    ]
+}
